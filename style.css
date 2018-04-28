@@ -5,8 +5,21 @@ p {
 }
 .jumbotron {
   background-color: yellow;
+  margin: 0 auto;
 }
 
 .container {
-	
+  width: 100%;
+}
+
+.center_div{
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  padding-top: 15px;
+  display:block;
+}
+
+input {
+  width: 30%;
 }
