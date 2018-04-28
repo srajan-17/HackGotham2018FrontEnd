@@ -17,9 +17,9 @@ p {
   margin: 0 auto;
   text-align: left;
   padding-top: 15px;
-  display:block;
+  /* background-color: black; */
 }
 
 input {
-  width: 30%;
+  width: 600px;;
 }
