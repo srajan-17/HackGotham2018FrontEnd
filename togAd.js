@@ -1,5 +1,5 @@
 $(document).ready(() => {
   $('#advert').click(function() {
-    $('#aditems').toggle();
+   	$('#aditems').toggle();
   })
 })
