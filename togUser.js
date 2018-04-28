@@ -1,5 +1,6 @@
 $(document).ready(() => {
   $('#user').click(function() {
-    $('#useritems').toggle();
+    $('#useritems').show();
+    $('#aditems').hide();
   })
 })
