@@ -1,24 +1,25 @@
 p {
     color: blue;
-    background-color: red;
     font-family: sans-serif;
 }
-.jumbotron {
-  background-color: yellow;
-  margin: 0 auto;
+.form-div {
+  /* background-color: yellow; */
+  margin-top: 200px;
 }
 
 .contain {
   width: 100%;
+  min-height: 700px;
 }
 
-.center_div{
+.center_div {
   width: 30%;
   margin: 0 auto;
   text-align: left;
   padding-top: 15px;
   /* background-color: black; */
 }
+
 
 input {
   min-width: 300px;
@@ -33,8 +34,11 @@ header{
 footer{
   text-align: center;
   font-size: 15px;
+  height: 50px;
+  background-color: red;
+
 }
 
 #sub1 {
-	
+
 }
